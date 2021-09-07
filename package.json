@@ -3,7 +3,7 @@
     "displayName": "Pritu Dark Theme",
     "description": "Official Theme For VS Code Created By Pritudev, Dark yet Beautiful.",
     "icon": "images/pritu-dark-theme-logo.png",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "Pritudev",
     "repository": {
         "type": "git",
@@ -20,7 +20,6 @@
         "Pritu-dark-theme",
         "Pritu Dark Theme",
         "pritudev"
-
     ],
     "engines": {
         "vscode": "^1.60.0"
