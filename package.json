@@ -6,8 +6,21 @@
     "publisher": "Pritudev",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/pritudev/pritu-dark-theme"
     },
+    "keywords": [
+        "pritu",
+        "Pritu",
+        "Prit",
+        "pritudev",
+        "PrituDev",
+        "Pritudev",
+        "Dark Theme",
+        "Pritu-dark-theme",
+        "Pritu Dark Theme",
+        "pritudev",
+
+    ],
     "engines": {
         "vscode": "^1.60.0"
     },
