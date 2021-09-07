@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "pritu-dark-theme" extension will be documented in this file.
+- v 0.1.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+```diff
++ Fixed Some bugs
++ Updated Preview Image in README.md
 
-## [Unreleased]
-
-- Initial release
+```
