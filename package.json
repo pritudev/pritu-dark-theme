@@ -4,6 +4,10 @@
     "description": "Official Theme Of Pritudev, Dark yet Beautiful.",
     "version": "0.0.1",
     "publisher": "Pritudev",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
     "engines": {
         "vscode": "^1.60.0"
     },
