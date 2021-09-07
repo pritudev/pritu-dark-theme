@@ -1,0 +1,22 @@
+{
+    "name": "pritu-dark-theme",
+    "displayName": "Pritu Dark Theme",
+    "description": "Official Theme Of Pritudev, Dark yet Beautiful.",
+    "version": "0.0.1",
+    "publisher": "Pritudev",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pritudev",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pritudev-color-theme.json"
+            }
+        ]
+    }
+}
