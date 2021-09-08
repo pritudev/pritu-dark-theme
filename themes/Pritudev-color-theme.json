@@ -2,10 +2,10 @@
     "name": "",
     "type": "dark",
     "colors": {
-        "focusBorder": "#eebf7c",
+        "focusBorder": "#4f45df",
         "foreground": "#aba8c2",
         "widget.shadow": "#000000",
-        "selection.background": "#eebf7c80",
+        "selection.background": "#61ff89",
         "errorForeground": "#F07171",
         "textLink.foreground": "#ff386a",
         "textLink.activeForeground": "#17c0de",
@@ -32,7 +32,7 @@
         "scrollbarSlider.background": "#3c315e50",
         "scrollbarSlider.hoverBackground": "#4d3f7740",
         "scrollbarSlider.activeBackground": "#2c244440",
-        "badge.background": "#eebf7c",
+        "badge.background": "#b3e9c0",
         "badge.foreground": "#000000",
         "progressBar.background": "#eebf7c",
         "list.activeSelectionBackground": "#eebf7c20",
@@ -45,11 +45,11 @@
         "activityBar.background": "#030204",
         "activityBar.inactiveForeground": "#7e7c8f",
         "activityBar.dropBorder": "#eebf7c",
-        "activityBarBadge.background": "#eebf7c",
-        "activityBarBadge.foreground": "#000000",
-        "activityBar.activeBorder": "#eebf7c",
-        "activityBar.activeBackground": "#eebf7c13",
-        "activityBar.activeFocusBorder": "#eebf7c",
+        "activityBarBadge.background": "#008cff",
+        "activityBarBadge.foreground": "#ffffff",
+        "activityBar.activeBorder": "#9ec5ff",
+        "activityBar.activeBackground": "#a17fce13",
+        "activityBar.activeFocusBorder": "#baacfc",
         "sideBar.background": "#07060b",
         "sideBarSectionHeader.background": "#0f0d18",
         "minimap.selectionHighlight": "#eebf7c80",
@@ -59,7 +59,7 @@
         "minimapGutter.deletedBackground": "#F07171",
         "minimapGutter.modifiedBackground": "#60a8dc",
         "editorGroup.border": "#030204",
-        "editorGroup.dropBackground": "#eebf7c30",
+        "editorGroup.dropBackground": "#a47cee30",
         "editorGroupHeader.noTabsBackground": "#13101e",
         "editorGroupHeader.tabsBackground": "#13101e",
         "tab.activeBackground": "#0b0911",
@@ -76,7 +76,7 @@
         "editorLineNumber.activeForeground": "#7b69b0",
         "editorCursor.background": "#000000",
         "editorCursor.foreground": "#eebf7c",
-        "editor.selectionBackground": "#eebf7c30",
+        "editor.selectionBackground": "#ff4e6c3a",
         "editor.findMatchHighlightBackground": "#aba8c230",
         "editor.findMatchBorder": "#eebf7c",
         "editor.lineHighlightBackground": "#13101e",
@@ -132,7 +132,7 @@
         "titleBar.border": "#161323",
         "menu.background": "#0b0911",
         "menu.foreground": "#aba8c2",
-        "menu.selectionBackground": "#eebf7cDD",
+        "menu.selectionBackground": "#db7ceedd",
         "menu.selectionForeground": "#000000",
         "menu.separatorBackground": "#2c2444",
         "notificationsErrorIcon.foreground": "#F07171",
@@ -191,7 +191,8 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#45386a"
+                "foreground": "#4a494e",
+                "fontStyle": "italic"
             }
         },
         {
@@ -233,7 +234,7 @@
         {
             "scope": [
                 "keyword.control",
-                "keyword.operator",
+
                 "storage",
                 "support.type",
                 "keyword.operator.expression",
@@ -241,6 +242,15 @@
             ],
             "settings": {
                 "foreground": "#ff386a"
+            }
+        },
+        {
+            "scope": [
+                "keyword.operator"
+            ],
+            "settings": {
+                "foreground": "#387eff"
+
             }
         },
         {
@@ -436,7 +446,8 @@
                 "entity.name.tag.wildcard"
             ],
             "settings": {
-                "foreground": "#757ff8"
+                "foreground": "#757ff8",
+                "fontStyle": "bold"
             }
         },
         {
@@ -445,7 +456,8 @@
                 "entity.other.attribute-name punctuation.definition.entity"
             ],
             "settings": {
-                "foreground": "#42d9ff"
+                "foreground": "#42d9ff",
+                "fontStyle": "bold"
             }
         },
         {
