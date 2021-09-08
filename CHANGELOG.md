@@ -18,6 +18,12 @@
 
 ```diff
 + Changed Colors Of HTML tags.
-+ Changed Style Of CSS Body
++ Changed Style Of CSS Body.
 
+```
+
+- v0.1.7 | 8 Sep, 2021
+
+```diff
++ Fixed Bugs.
 ```
