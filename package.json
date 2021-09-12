@@ -1,39 +1,39 @@
 {
-    "name": "pritu-dark-theme",
-    "displayName": "Pritudev Theme",
-    "description": "Official Theme For VS Code Created By Pritudev, Dark yet Beautiful.",
-    "icon": "images/pritu-dark-theme-logo.png",
-    "version": "0.1.7",
-    "publisher": "Pritudev",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/pritudev/pritu-dark-theme"
-    },
-    "keywords": [
-        "pritu",
-        "Pritu",
-        "Prit",
-        "pritudev",
-        "PrituDev",
-        "Pritudev",
-        "Dark Theme",
-        "Pritu-dark-theme",
-        "Pritu Dark Theme",
-        "pritudev"
-    ],
-    "engines": {
-        "vscode": "^1.60.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Pritudev",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Pritudev-color-theme.json"
-            }
-        ]
-    }
+  "name": "pritu-dark-theme",
+  "displayName": "Pritudev Theme",
+  "description": "Official Theme For VS Code Created By Pritudev, Dark yet Beautiful.",
+  "icon": "images/pritu-dark-theme-logo.png",
+  "version": "0.1.8",
+  "publisher": "Pritudev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pritudev/pritu-dark-theme"
+  },
+  "keywords": [
+    "pritu",
+    "Pritu",
+    "Prit",
+    "pritudev",
+    "PrituDev",
+    "Pritudev",
+    "Dark Theme",
+    "Pritu-dark-theme",
+    "Pritu Dark Theme",
+    "pritudev"
+  ],
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pritudev",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pritudev-color-theme.json"
+      }
+    ]
+  }
 }
