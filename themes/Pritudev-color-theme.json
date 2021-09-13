@@ -70,7 +70,7 @@
     "tab.hoverBackground": "#1b172b",
     "tab.activeModifiedBorder": "#60a8dc",
     "editorPane.background": "#040407",
-    "editor.background": "#0b0911",
+    "editor.background": "#0d0b11",
     "editor.foreground": "#aba8c2",
     "editorLineNumber.foreground": "#362c54",
     "editorLineNumber.activeForeground": "#7b69b0",
@@ -238,7 +238,7 @@
     {
       "scope": ["keyword.operator"],
       "settings": {
-        "foreground": "#387eff"
+        "foreground": "#56b6c2"
       }
     },
     {
@@ -250,7 +250,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#0099ff"
+        "foreground": "#c678dd"
       }
     },
     {
@@ -334,13 +334,13 @@
     {
       "scope": "meta.tag string",
       "settings": {
-        "foreground": "#757ff8"
+        "foreground": "#98c379"
       }
     },
     {
       "scope": "variable.other.object",
       "settings": {
-        "foreground": "#bebebe"
+        "foreground": "#e5c07b"
       }
     },
     {
